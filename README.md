@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bristy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iffatejahan&label=Profile%20views&color=0e75b6&style=flat" alt="iffatejahan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iffatejahan" alt="iffatejahan" /></a> </p>
-
 - 📫 How to reach me **iffatejahanbristi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
